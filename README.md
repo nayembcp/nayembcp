@@ -1,14 +1,20 @@
-### Hi there 👋
+![Front-End Web Developer](https://pbs.twimg.com/profile_banners/874841969926836224/1697966154/1080x360)
+### Hi there 👋, I'm Md. Nayem Hossain
+#### Front-End Web Developer
 
-**nayembcp/nayembcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Front-End Web Developer . Passion for UX & UI Design.
 
-- 🔭 I’m currently workin
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+Skills:  JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nayembcp)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayembcp&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nayembcp)  
+
